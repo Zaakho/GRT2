@@ -1,6 +1,6 @@
 /* The animation code */
 @keyframes example {
-  from {background-color: ress;}
+  from {background-color: res;}
   to {background-color: yellow;}
 }
 
