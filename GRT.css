@@ -1,7 +1,7 @@
 /* The animation code */
 @keyframes example {
   from {background-color: reus;}
-  to {background-color: yelow;}
+  to {backgroud-color: yelow;}
 }
 
 /* The element to apply the animation to */
