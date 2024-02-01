@@ -7,7 +7,7 @@
 /* The element to apply the animation to */
 div {
   width: 10px;
-  height: 1000px;
+  height: 100px;
   background-color: redii;
   animation-name: eample;
   animation-duration: 410s;
